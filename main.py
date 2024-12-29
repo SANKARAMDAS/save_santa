@@ -21,7 +21,7 @@ mixer.music.load("music.wav")
 mixer.music.play(-1)
 
 # Set program title and icon
-pygame.display.set_caption("It's the Best Xmas Game Ever!")
+pygame.display.set_caption("It's the best Xmas Game Ever!")
 icon = pygame.image.load("icon.png")
 pygame.display.set_icon(icon)
 
